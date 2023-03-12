@@ -1,117 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-11T17:21:59 IST" name="Default suite" finished-at="2023-03-11T17:23:48 IST" duration-ms="109253">
+  <suite started-at="2023-03-12T08:47:08 IST" name="Default suite" finished-at="2023-03-12T08:48:59 IST" duration-ms="110919">
     <groups>
     </groups>
-    <test started-at="2023-03-11T17:21:59 IST" name="Default test" finished-at="2023-03-11T17:23:48 IST" duration-ms="109253">
+    <test started-at="2023-03-12T08:47:08 IST" name="Default test" finished-at="2023-03-12T08:48:59 IST" duration-ms="110919">
       <class name="Gsreaady.Gsreaady.guru99">
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:21:59 IST" name="launchBrowser" finished-at="2023-03-11T17:22:02 IST" duration-ms="2704" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:47:08 IST" name="launchBrowser" finished-at="2023-03-12T08:47:12 IST" duration-ms="3251" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="validateTitle()[pri:1, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:22:02 IST" name="validateTitle" finished-at="2023-03-11T17:22:10 IST" duration-ms="8607" status="PASS">
+        <test-method signature="validateTitle()[pri:1, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:47:12 IST" name="validateTitle" finished-at="2023-03-12T08:47:20 IST" duration-ms="8154" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateTitle -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:22:10 IST" name="closeBrowser" finished-at="2023-03-11T17:22:11 IST" duration-ms="344" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:47:20 IST" name="closeBrowser" finished-at="2023-03-12T08:47:20 IST" duration-ms="359" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:22:11 IST" name="launchBrowser" finished-at="2023-03-11T17:22:12 IST" duration-ms="1500" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:47:20 IST" name="launchBrowser" finished-at="2023-03-12T08:47:22 IST" duration-ms="1499" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="validateLink()[pri:2, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:22:12 IST" name="validateLink" finished-at="2023-03-11T17:22:20 IST" duration-ms="8034" status="PASS">
+        <test-method signature="validateLink()[pri:2, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:47:22 IST" name="validateLink" finished-at="2023-03-12T08:47:30 IST" duration-ms="7780" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateLink -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:22:20 IST" name="closeBrowser" finished-at="2023-03-11T17:22:21 IST" duration-ms="270" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:47:30 IST" name="closeBrowser" finished-at="2023-03-12T08:47:30 IST" duration-ms="240" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:22:21 IST" name="launchBrowser" finished-at="2023-03-11T17:22:22 IST" duration-ms="1275" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:47:30 IST" name="launchBrowser" finished-at="2023-03-12T08:47:31 IST" duration-ms="1406" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="clikAndValidateBuyOptions()[pri:3, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:22:22 IST" name="clikAndValidateBuyOptions" finished-at="2023-03-11T17:22:31 IST" duration-ms="8931" status="PASS">
+        <test-method signature="clikAndValidateBuyOptions()[pri:3, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:47:31 IST" name="clikAndValidateBuyOptions" finished-at="2023-03-12T08:47:40 IST" duration-ms="8578" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clikAndValidateBuyOptions -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:22:31 IST" name="closeBrowser" finished-at="2023-03-11T17:22:31 IST" duration-ms="325" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:47:40 IST" name="closeBrowser" finished-at="2023-03-12T08:47:40 IST" duration-ms="208" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:22:31 IST" name="launchBrowser" finished-at="2023-03-11T17:22:33 IST" duration-ms="1552" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:47:40 IST" name="launchBrowser" finished-at="2023-03-12T08:47:41 IST" duration-ms="1480" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="logoIsDisplay()[pri:4, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:22:33 IST" name="logoIsDisplay" finished-at="2023-03-11T17:22:41 IST" duration-ms="8208" status="PASS">
+        <test-method signature="logoIsDisplay()[pri:4, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:47:41 IST" name="logoIsDisplay" finished-at="2023-03-12T08:47:50 IST" duration-ms="8181" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoIsDisplay -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:22:41 IST" name="closeBrowser" finished-at="2023-03-11T17:22:41 IST" duration-ms="281" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:47:50 IST" name="closeBrowser" finished-at="2023-03-12T08:47:50 IST" duration-ms="229" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:22:41 IST" name="launchBrowser" finished-at="2023-03-11T17:22:43 IST" duration-ms="1504" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:47:50 IST" name="launchBrowser" finished-at="2023-03-12T08:47:51 IST" duration-ms="1382" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="placeOrder()[pri:5, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:22:43 IST" name="placeOrder" finished-at="2023-03-11T17:22:55 IST" duration-ms="12663" status="PASS">
+        <test-method signature="placeOrder()[pri:5, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:47:51 IST" name="placeOrder" finished-at="2023-03-12T08:48:03 IST" duration-ms="12213" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- placeOrder -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:22:55 IST" name="closeBrowser" finished-at="2023-03-11T17:22:56 IST" duration-ms="281" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:48:03 IST" name="closeBrowser" finished-at="2023-03-12T08:48:04 IST" duration-ms="278" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:22:56 IST" name="launchBrowser" finished-at="2023-03-11T17:22:57 IST" duration-ms="1256" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:48:04 IST" name="launchBrowser" finished-at="2023-03-12T08:48:05 IST" duration-ms="1255" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="genrateCreditCard()[pri:6, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:22:57 IST" name="genrateCreditCard" finished-at="2023-03-11T17:23:08 IST" duration-ms="11182" status="PASS">
+        <test-method signature="genrateCreditCard()[pri:6, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:48:05 IST" name="genrateCreditCard" finished-at="2023-03-12T08:48:16 IST" duration-ms="11275" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- genrateCreditCard -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:23:08 IST" name="closeBrowser" finished-at="2023-03-11T17:23:08 IST" duration-ms="286" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:48:16 IST" name="closeBrowser" finished-at="2023-03-12T08:48:17 IST" duration-ms="329" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:23:08 IST" name="launchBrowser" finished-at="2023-03-11T17:23:10 IST" duration-ms="1420" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:48:17 IST" name="launchBrowser" finished-at="2023-03-12T08:48:18 IST" duration-ms="1410" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="toCheckTheCvvNumber()[pri:7, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:23:10 IST" name="toCheckTheCvvNumber" finished-at="2023-03-11T17:23:21 IST" duration-ms="10892" status="PASS">
+        <test-method signature="toCheckTheCvvNumber()[pri:7, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:48:18 IST" name="toCheckTheCvvNumber" finished-at="2023-03-12T08:48:28 IST" duration-ms="10238" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- toCheckTheCvvNumber -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:23:21 IST" name="closeBrowser" finished-at="2023-03-11T17:23:21 IST" duration-ms="315" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:48:28 IST" name="closeBrowser" finished-at="2023-03-12T08:48:29 IST" duration-ms="319" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:23:21 IST" name="launchBrowser" finished-at="2023-03-11T17:23:22 IST" duration-ms="1231" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:48:29 IST" name="launchBrowser" finished-at="2023-03-12T08:48:30 IST" duration-ms="1539" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="toCheckCreditCardLimit()[pri:8, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:23:22 IST" name="toCheckCreditCardLimit" finished-at="2023-03-11T17:23:31 IST" duration-ms="8401" status="PASS">
+        <test-method signature="toCheckCreditCardLimit()[pri:8, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:48:30 IST" name="toCheckCreditCardLimit" finished-at="2023-03-12T08:48:39 IST" duration-ms="8878" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- toCheckCreditCardLimit -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:23:31 IST" name="closeBrowser" finished-at="2023-03-11T17:23:31 IST" duration-ms="322" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:48:39 IST" name="closeBrowser" finished-at="2023-03-12T08:48:39 IST" duration-ms="342" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:23:31 IST" name="launchBrowser" finished-at="2023-03-11T17:23:32 IST" duration-ms="1392" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:48:39 IST" name="launchBrowser" finished-at="2023-03-12T08:48:41 IST" duration-ms="1428" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="verifyCartOptions()[pri:9, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:23:32 IST" name="verifyCartOptions" finished-at="2023-03-11T17:23:47 IST" duration-ms="14831" status="PASS">
+        <test-method signature="verifyCartOptions()[pri:9, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:48:41 IST" name="verifyCartOptions" finished-at="2023-03-12T08:48:52 IST" duration-ms="11089" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyCartOptions -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@cad498c]" started-at="2023-03-11T17:23:47 IST" name="closeBrowser" finished-at="2023-03-11T17:23:48 IST" duration-ms="1151" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:48:52 IST" name="closeBrowser" finished-at="2023-03-12T08:48:52 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:48:52 IST" name="launchBrowser" finished-at="2023-03-12T08:48:53 IST" duration-ms="1261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="checkCreditCardBalance()[pri:10, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:48:53 IST" name="checkCreditCardBalance" finished-at="2023-03-12T08:48:59 IST" duration-ms="5632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCreditCardBalance -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Gsreaady.Gsreaady.guru99@1e6454ec]" started-at="2023-03-12T08:48:59 IST" name="closeBrowser" finished-at="2023-03-12T08:48:59 IST" duration-ms="288" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->

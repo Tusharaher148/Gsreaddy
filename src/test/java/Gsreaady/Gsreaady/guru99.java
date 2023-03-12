@@ -135,6 +135,16 @@ public void verifyCartOptions() throws InterruptedException {
 	Assert.assertEquals("Mother Elephant With Babies Soft Toy",print);
 	
 	}
-
+@Test(priority = 10)
+public void checkCreditCardBalance() {
+	driver.get("https://demo.guru99.com/payment-gateway/check_credit_balance.php");
+	driver.findElement(By.name("card_nmuber")).sendKeys("1234567898765432");
+	driver.findElement(By.name("submit")).click();
+	WebElement num = driver.findElement(By.xpath("//*[@id=\"three\"]/div/div/table/tbody[1]/tr/td[1]/b/font"));
+	String number=num.getText();
+	Assert.assertEquals("1234567898765432", number);
+	
+	
+}
 }
 	
